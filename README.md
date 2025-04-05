@@ -1,5 +1,9 @@
 # PWM-GQ-1-INDIVIDUAL
 
+- Aluno: José Roberval Vieira Gomes Neto
+- RA: 00000848856
+
+
 # 💼 Portfólio + Jogo da Senha (Bulls and Cows)
 
 Este é um projeto pessoal desenvolvido como parte de uma avaliação, que reúne:

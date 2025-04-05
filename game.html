@@ -11,11 +11,13 @@
     <h1>Jogo da Senha</h1>
     <p>Digite uma sequência de 4 dígitos únicos:</p>
     <input type="text" id="guessInput" maxlength="4" placeholder="Ex: 1234" />
-    <button onclick="submitGuess()">Enviar</button>
-    <button onclick="revealCode()">Mostrar Senha</button>
-
-    <ul id="history"></ul>
+    <div style="margin-top: 1rem;">
+      <button onclick="submitGuess()">Enviar</button>
+      <button onclick="revealCode()">Mostrar Senha</button>
+    </div>
+    <ul id="history" style="margin-top: 2rem;"></ul>
   </main>
+
   <script src="game.js"></script>
 </body>
 </html>

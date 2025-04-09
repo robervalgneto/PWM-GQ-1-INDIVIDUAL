@@ -2,6 +2,7 @@
 
 - Aluno: José Roberval Vieira Gomes Neto
 - RA: 00000848856
+- Professor: Marcio Bueno
 
 
 # 💼 Portfólio + Jogo da Senha (Bulls and Cows)
@@ -10,7 +11,7 @@ Este é um projeto pessoal desenvolvido como parte de uma avaliação, que reún
 
 - Um portfólio pessoal em HTML/CSS/JS
 - Um jogo chamado "Jogo da Senha" (inspirado no Bulls and Cows)
-- Estilização com tema escuro e tons pastéis
+- Estilização com tema escuro.
 - Efeitos de animação e digitação para maior interatividade
 
 ---
@@ -31,8 +32,8 @@ Este site tem duas páginas principais:
 - Jogo baseado em Bulls and Cows
 - O usuário deve adivinhar uma sequência aleatória de 4 dígitos únicos
 - Cada tentativa retorna "Bulls" e "Cows":
-  - 🐂 **Bull** = número certo no lugar certo
-  - 🐄 **Cow** = número certo no lugar errado
+  - **Bull** = número certo no lugar certo
+  - **Cow** = número certo no lugar errado
 - Histórico de tentativas aparece em ordem reversa
 - Botão para exibir a senha gerada via alert
 
